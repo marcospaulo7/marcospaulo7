@@ -16,7 +16,7 @@ GIF I’m currently playing video game :video_game: or working on my laptop 👨
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: Study and gain more experiences .
+:outbox_tray: 2021 Goals: Study and gain more experiences.
 
  
 
@@ -26,7 +26,7 @@ GIF I’m currently playing video game :video_game: or working on my laptop 👨
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/marcos-paulo20/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/unrealmp//)
+)](https://www.instagram.com/unrealmp/)
 
 [![marcospaulo7 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospaulo7&theme=merko)](https://github.com/marcospaulo7/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulo7&theme=merko)](https://github.com/marcospaulo7/github-readme-stats)
