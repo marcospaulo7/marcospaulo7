@@ -10,6 +10,8 @@
 
 :computer: I'm a QA 
 
+GIF I’m currently sleeping 😴 or working on my laptop 👨‍💻
+
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
