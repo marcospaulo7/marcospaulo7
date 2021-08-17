@@ -10,7 +10,7 @@
 
 :computer: I'm a QA 
 
-GIF I’m currently sleeping 😴 or working on my laptop 👨‍💻
+GIF I’m currently playing video game :video_game: or working on my laptop 👨‍💻
 
 :house_with_garden: I’m from Brazil.
 
@@ -24,13 +24,14 @@ GIF I’m currently sleeping 😴 or working on my laptop 👨‍💻
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcospaulo7)](https://github.com/marcospaulo7)
 
-<img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/marcos-paulo20/)
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/unrealmp//)
 
 
-[![marcospaulo7 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospaulo7)](https://github.com/marcospaulo7/github-readme-stats)
-
+ 
 - Thanks for visiting.
 
 - Enjoy it!! o/
