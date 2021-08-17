@@ -29,8 +29,7 @@ GIF I’m currently playing video game :video_game: or working on my laptop 👨
 )](https://www.instagram.com/unrealmp//)
 
 [![marcospaulo7 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospaulo7)](https://github.com/marcospaulo7/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulo7)](https://github.com/marcospaulo7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulo7&radical)](https://github.com/marcospaulo7/github-readme-stats)
 
  
 - Thanks for visiting.
