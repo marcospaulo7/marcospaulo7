@@ -34,7 +34,7 @@ GIF I’m currently playing video game :video_game: or working on my laptop 👨
  
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!! \o/
 <!--
 **marcospaulo7/marcospaulo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
