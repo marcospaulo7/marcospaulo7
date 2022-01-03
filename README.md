@@ -16,7 +16,7 @@ GIF I’m currently playing video game :video_game: or working on my laptop 👨
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: Study and gain more experiences.
+:outbox_tray: 2022 Goals: Study and improve my skills.
 
  
 
