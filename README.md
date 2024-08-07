@@ -8,7 +8,7 @@
 
  
 
-:computer: I'm a QA 
+:computer: I'm a Software Engineer 
 
 GIF I’m currently playing video game :video_game: or working on my laptop 👨‍💻
 
